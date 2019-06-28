@@ -9,6 +9,10 @@ Do you want to share your success story?
 This repository is for you. It contains a curated list of examples,
 on how to use DialogOS.
 
+## SQL
+See the example in millionaire/README.md
+
+
 ## Contributing:
 We very much invite your contribution of example dialog models. 
 You can either open a pull request or send examples by e-mail to
