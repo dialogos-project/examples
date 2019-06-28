@@ -10,7 +10,7 @@ This repository is for you. It contains a curated list of examples,
 on how to use DialogOS.
 
 ## SQL
-See the example in millionaire/README.md
+See the [example](millionaire/README.md).
 
 
 ## Contributing:
