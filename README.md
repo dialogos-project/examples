@@ -12,4 +12,7 @@ on how to use DialogOS.
 ## Contributing:
 We very much invite your contribution of example dialog models. 
 You can either open a pull request or send examples by e-mail to
-baumann@informatik.uni-hamburg.de .
+baumann@informatik.uni-hamburg.de . Please include documentation 
+of your dialog model, either as a text file or notes included in 
+the model. Please also specify what plugins are required and the 
+version(s) of DialogOS the model is known to work with.
